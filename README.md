@@ -6,7 +6,7 @@
 </div>
 <br />
 
-> A web application to enable people or organizations who are running their services at a small scale to better manage their resources and data.
+> A cloud based web application to enable people or organizations running their services at a small scale to better manage their resources and data.
 
 ## USER MANAGEMENT PORTAL
 
